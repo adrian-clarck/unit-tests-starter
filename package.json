@@ -7,5 +7,10 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "cons": "^0.0.2",
+    "express": "^5.2.1",
+    "supertest": "^7.3.0"
   }
 }
